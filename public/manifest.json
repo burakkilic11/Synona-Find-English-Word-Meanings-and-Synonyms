@@ -1,0 +1,40 @@
+{
+  "manifest_version": 3,
+  "name": "Synona - Find English Word Meanings and Synonyms",
+  "version": "0.1.0",
+  "description": "Synona - Konuşulan İngilizce kelimelerin anlamlarını ve eş anlamlılarını bulun.",
+  "permissions": [
+    "storage",
+    "https://api.dictionaryapi.dev/*"
+    
+  ],
+  "action": {
+    "default_popup": "index.html",
+    "default_icon": {
+      "16": "icons/synona16.png",
+      "48": "icons/synona48.png",
+      "128": "icons/synona128.png"
+    }
+  },
+  "icons": {
+    "16": "icons/synona16.png",
+    "48": "icons/synona48.png",
+    "128": "icons/synona128.png"
+  },
+  "content_scripts": [
+    {
+      "matches": ["<all_urls>"],
+      "js": ["injectIframe.js"], 
+      "run_at": "document_idle"
+    }
+  ],
+  "web_accessible_resources": [
+    {
+      "resources": [
+        "permission.html",       
+        "requestPermission.js"    
+      ],
+      "matches": ["<all_urls>"]
+    }
+  ]
+}

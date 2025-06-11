@@ -4,16 +4,16 @@ However, this usually means opening a new tab, going to a translation site, typi
 
 All you need to do is click on the extension while watching the video and say the word you want to learn. Instantly, you'll see the meaning, synonyms, and antonyms of the word, and you can continue watching your video without losing your focus or momentum.
 
-#Click Synona Extension
+# Click Synona Extension
 ![image](https://github.com/user-attachments/assets/696ca21a-8872-4af8-b862-db0fc5de8212)
 
-#Say a word
+# Say a word
 ![image](https://github.com/user-attachments/assets/4c2ef137-038f-4cf3-b03c-e45b2df55451)
 
-#Here are the meanings of the word as a noun, verb, adjective, etc.
+# Here are the meanings of the word as a noun, verb, adjective, etc.
 ![image](https://github.com/user-attachments/assets/85b52222-adc5-4955-b70d-f33be75dadb1)
 
-#Examples, synonyms and antonyms
+# Examples, synonyms and antonyms
 ![image](https://github.com/user-attachments/assets/4e5fdfb1-58c2-49d9-89d8-27e80c7114f8)
 
 
